@@ -1,6 +1,6 @@
 import scala.math._
 
-object Main extends App {
+object ObjectOriented extends App {
   class Animal {
     val age = 0
     def eat() = println("I am eating")
